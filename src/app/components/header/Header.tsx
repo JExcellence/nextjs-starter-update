@@ -4,7 +4,7 @@ import {
     Logo,
     Row,
     UserMenu,
-    Fade, IconButton, Button, useToast, NavIcon, Column, Banner,
+    Fade, IconButton, Button, NavIcon, Column, Banner,
 } from "@/once-ui/components";
 import React, { useState } from "react";
 import { useScroll, useMotionValueEvent } from "framer-motion";

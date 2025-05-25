@@ -45,8 +45,8 @@ export async function generateMetadata(): Promise<Metadata> {
   const metadataBase = new URL("https://jexcellence.de")
 
   return {
-    title: meta.title,
-    description: meta.description,
+    title: meta.home.title,
+    description: meta.home.description,
     openGraph: {
       title: og.title,
       description: og.description,
@@ -136,7 +136,7 @@ export default function RootLayout({
         tertiary ? tertiary.variable : "",
       )}
     >
-      <head title="JExcellence | Innovative Web & Softwarelösungen">
+      <head title={meta.home.title}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
