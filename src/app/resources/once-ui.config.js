@@ -38,13 +38,13 @@ const og = {
   },
   title: "JExcellence | Innovative Web & Softwarelösungen",
   description: "JExcellence – Fullstack-Webentwicklung, klasse Design, individuelle Lösungen und echte Exzellenz für Ihr digitales Projekt. Gemeinsam digital erfolgreich werden.",
-  type: "WebPage",
+  type: "LocalBusiness",
   image: "https://jexcellence.de/images/avatar/avatar_1.png",
 };
 
 const schema = {
   logo: "https://jexcellence.de/images/avatar/avatar_1.png",
-  type: "WebPage",
+  type: "LocalBusiness",
   name: "JExcellence",
   description: "JExcellence bietet smarte, maßgeschneiderte Web-, Software- und E-Commerce-Lösungen für Unternehmen, Startups & Persönlichkeiten. Modern, zuverlässig und immer mit Leidenschaft für Innovation.",
   email: "justin.eiletz@jexcellence.de",
