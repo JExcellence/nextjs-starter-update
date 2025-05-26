@@ -4,7 +4,6 @@ import {
     Column,
     Text,
     Heading,
-    SmartLink,
     Flex, ElementType,
 } from "@/once-ui/components";
 import React from "react";

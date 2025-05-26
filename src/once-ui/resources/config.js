@@ -34,7 +34,7 @@ const og = {
 
 const schema = {
   logo: "https://jexcellence.de/images/avatar/avatar_1.png",
-  type: "LocalBusiness",
+  type: "website",
   name: "Jexcellence",
   description: "Jexcellence bietet smarte, maßgeschneiderte Web-, Software- und E-Commerce-Lösungen für Unternehmen, Startups & Persönlichkeiten. Modern, zuverlässig und immer mit Leidenschaft für Innovation.",
   email: "justin.eiletz@jexcellence.de",
